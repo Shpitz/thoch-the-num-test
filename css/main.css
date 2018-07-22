@@ -78,7 +78,7 @@ td{
 	background:-ms-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
 	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477',GradientType=0);
-	background-color:#fb9e25;
+	background-color: hotpink;
 }
 .myButton:active {
 	position:relative;
